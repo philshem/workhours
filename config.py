@@ -7,11 +7,11 @@ change these to update your graph
 # change the day, total hours per day, and also the color
 # note: currently it's not possible to have multiple colors per day
 # list of colors https://matplotlib.org/3.1.0/gallery/color/named_colors.html
-data = [{'day': 0, 'hours' : 4, 'color' : 'b'},
-		{'day': 1, 'hours' : 4, 'color' : 'lime'},
-		{'day': 2, 'hours' : 6, 'color' : 'g'},
-		{'day': 3, 'hours' : 4, 'color' : 'lime'},
-		{'day': 4, 'hours' : 2, 'color' : 'r'},
+data = [{'day': 0, 'hours' : 4.0, 'color' : 'b'},
+		{'day': 1, 'hours' : 4.5, 'color' : 'lime'},
+		{'day': 2, 'hours' : 6.5, 'color' : 'g'},
+		{'day': 3, 'hours' : 4.5, 'color' : 'lime'},
+		{'day': 4, 'hours' : 1.5, 'color' : 'r'},
 		]
 
 # define days of the week
